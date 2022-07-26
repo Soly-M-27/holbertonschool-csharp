@@ -8,15 +8,15 @@ class Program
         int number = rndm.Next(-10, 10);
         if (number > 0)
         {
-            Console.WriteLine("{0} is positive", number);
+            Console.WriteLine("{0:D} is positive", number);
         }
         else if (number == 0)
         {
-            Console.WriteLine("{0} is zero", number);
+            Console.WriteLine("{0:D} is zero", number);
         }
         else
         {
-            Console.WriteLine("{0} is negative", number);
+            Console.WriteLine("{0:D} is negative", number);
         }
     }
 }
