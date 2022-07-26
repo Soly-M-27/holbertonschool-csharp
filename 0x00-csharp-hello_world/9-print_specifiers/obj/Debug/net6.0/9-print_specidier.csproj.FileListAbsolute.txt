@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/bin/Debug/net6.0/9-print_specidier
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/bin/Debug/net6.0/9-print_specidier.deps.json
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/bin/Debug/net6.0/9-print_specidier.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/bin/Debug/net6.0/9-print_specidier.dll
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/bin/Debug/net6.0/9-print_specidier.pdb
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/9-print_specidier.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/9-print_specidier.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/9-print_specidier.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/9-print_specidier.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/9-print_specidier.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/9-print_specidier.dll
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/refint/9-print_specidier.dll
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/9-print_specidier.pdb
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/9-print_specidier.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specidier/obj/Debug/net6.0/ref/9-print_specidier.dll
