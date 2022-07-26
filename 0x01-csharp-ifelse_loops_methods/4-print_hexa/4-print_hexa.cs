@@ -1,11 +1,4 @@
-﻿/** Write a program that prints all numbers from 0 to 98 
- * in decimal and in hexadecimal (as in the following example)
- *
- *  -You can only use Console.Write once
- *  -You can only use one loop in your code
- **/
-
-using System;
+﻿using System;
 
 class Program
 {
