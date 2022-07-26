@@ -1,12 +1,15 @@
 ﻿using System;
 
-class Program
+namespace repeat_string_3_times
 {
-        static void Main(string[] args)
+        class Program
         {
-                string str = "Holberton School";
-                string RepStr = str.Concat(Enumerable.Repeat(str, 3));                
-                Console.WriteLine(RepStr);
-                Console.WriteLine(str.Substring(0,9));
+                static void Main(string[] args)
+                {
+                        string str = "Holberton School";
+                        string new_str = new string(str, 3);                
+                        Console.WriteLine(new_str);
+                        Console.WriteLine(str.Substring(0,9));
+                }
         }
 }
