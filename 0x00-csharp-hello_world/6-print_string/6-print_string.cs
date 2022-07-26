@@ -1,0 +1,13 @@
+﻿using System;
+
+class Program
+{
+        static void Main(string[] args)
+        {
+                string str = "Holberton School";
+                string RepStr = str.Concat(Enumerable.Repeat(str, 3));                
+                Console.WriteLine(RepStr);
+                Console.WriteLine(str.Substring(0,9));
+                Console.WriteLine("Sup bitch");
+        }
+}
