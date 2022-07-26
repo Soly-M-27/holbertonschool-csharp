@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace writeline
 {
-	public class PrintString
+	public class Program
 	{
 		public static void Main(string[] args)
 		{
