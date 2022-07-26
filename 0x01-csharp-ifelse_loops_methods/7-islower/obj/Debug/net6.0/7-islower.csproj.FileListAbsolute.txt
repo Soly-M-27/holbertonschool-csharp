@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower.deps.json
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower.dll
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/bin/Debug/net6.0/7-islower.pdb
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.dll
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/refint/7-islower.dll
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.pdb
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/7-islower.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/7-islower/obj/Debug/net6.0/ref/7-islower.dll
