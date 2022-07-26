@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error.deps.json
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error.dll
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/bin/Debug/net6.0/100-hello_error.pdb
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.dll
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/refint/100-hello_error.dll
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.pdb
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/100-hello_error.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x00-csharp-hello_world/100-hello_error/obj/Debug/net6.0/ref/100-hello_error.dll
