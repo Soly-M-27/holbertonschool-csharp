@@ -6,7 +6,7 @@ class Program
     {
         Random rndm = new Random();
         int number = rndm.Next(-10000, 10000);
-        mod_num = number % 10;
+        int mod_num = number % 10;
         if (mod_num > 5)
         {
             Console.WriteLine("The last digit of {0:D} is {1:D} and is greater than 5", number, mod_num);
