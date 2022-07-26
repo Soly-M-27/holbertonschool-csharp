@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "41vECP9RouvtSUR8ewSaOk8ndLvM4KYG40YqdhSxgSlpyJ4yXIGMkD3A7mP9YP956c+2n+jfgMF6m5U7vyqEoQ==",
+  "success": true,
+  "projectFilePath": "/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/0-positive_or_negative.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/root/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/netcoreapp2.1/0-positive_or_negative.csproj.CoreCompileInputs.cache
