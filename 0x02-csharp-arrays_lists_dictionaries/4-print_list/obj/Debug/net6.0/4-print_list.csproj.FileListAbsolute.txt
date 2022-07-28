@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net6.0/4-print_list
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net6.0/4-print_list.deps.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net6.0/4-print_list.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net6.0/4-print_list.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net6.0/4-print_list.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/4-print_list.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/4-print_list.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/4-print_list.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/4-print_list.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/4-print_list.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/4-print_list.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/refint/4-print_list.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/4-print_list.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/4-print_list.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net6.0/ref/4-print_list.dll
