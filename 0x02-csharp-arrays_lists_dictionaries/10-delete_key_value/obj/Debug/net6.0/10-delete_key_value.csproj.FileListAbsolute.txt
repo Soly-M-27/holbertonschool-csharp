@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/net6.0/10-delete_key_value
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/net6.0/10-delete_key_value.deps.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/net6.0/10-delete_key_value.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/net6.0/10-delete_key_value.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/bin/Debug/net6.0/10-delete_key_value.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/10-delete_key_value.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/10-delete_key_value.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/10-delete_key_value.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/10-delete_key_value.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/10-delete_key_value.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/10-delete_key_value.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/refint/10-delete_key_value.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/10-delete_key_value.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/10-delete_key_value.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/10-delete_key_value/obj/Debug/net6.0/ref/10-delete_key_value.dll
