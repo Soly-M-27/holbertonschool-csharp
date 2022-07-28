@@ -6,7 +6,6 @@
     <RootNamespace>_0_print_array</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <LangVersion>preview</LangVersion>
   </PropertyGroup>
 
 </Project>
