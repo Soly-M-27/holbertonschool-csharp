@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net6.0/14-rectangular_array
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net6.0/14-rectangular_array.deps.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net6.0/14-rectangular_array.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net6.0/14-rectangular_array.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net6.0/14-rectangular_array.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/14-rectangular_array.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/14-rectangular_array.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/14-rectangular_array.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/14-rectangular_array.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/14-rectangular_array.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/refint/14-rectangular_array.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/14-rectangular_array.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/14-rectangular_array.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net6.0/ref/14-rectangular_array.dll
