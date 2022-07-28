@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score.deps.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/bin/Debug/net6.0/13-best_score.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/refint/13-best_score.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/13-best_score.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/13-best_score/obj/Debug/net6.0/ref/13-best_score.dll
