@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element.deps.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/net6.0/2-replace_element.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/refint/2-replace_element.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/2-replace_element.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net6.0/ref/2-replace_element.dll
