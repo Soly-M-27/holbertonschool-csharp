@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix.deps.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net6.0/15-square_matrix.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/refint/15-square_matrix.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/15-square_matrix.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net6.0/ref/15-square_matrix.dll
