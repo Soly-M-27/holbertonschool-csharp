@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net6.0/8-number_keys
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net6.0/8-number_keys.deps.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net6.0/8-number_keys.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net6.0/8-number_keys.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net6.0/8-number_keys.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/8-number_keys.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/8-number_keys.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/8-number_keys.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/8-number_keys.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/8-number_keys.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/refint/8-number_keys.dll
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/8-number_keys.pdb
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/8-number_keys.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net6.0/ref/8-number_keys.dll
