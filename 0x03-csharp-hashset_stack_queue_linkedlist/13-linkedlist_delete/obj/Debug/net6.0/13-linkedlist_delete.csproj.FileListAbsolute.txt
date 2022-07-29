@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net6.0/13-linkedlist_delete
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net6.0/13-linkedlist_delete.deps.json
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net6.0/13-linkedlist_delete.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net6.0/13-linkedlist_delete.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/net6.0/13-linkedlist_delete.pdb
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/13-linkedlist_delete.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/13-linkedlist_delete.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/13-linkedlist_delete.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/13-linkedlist_delete.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/13-linkedlist_delete.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/13-linkedlist_delete.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/refint/13-linkedlist_delete.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/13-linkedlist_delete.pdb
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/13-linkedlist_delete.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/net6.0/ref/13-linkedlist_delete.dll
