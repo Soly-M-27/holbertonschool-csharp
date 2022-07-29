@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find.deps.json
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net6.0/8-linkedlist_find.pdb
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/refint/8-linkedlist_find.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.pdb
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/8-linkedlist_find.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net6.0/ref/8-linkedlist_find.dll
