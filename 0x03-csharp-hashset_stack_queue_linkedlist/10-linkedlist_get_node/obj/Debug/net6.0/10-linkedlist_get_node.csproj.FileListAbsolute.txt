@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net6.0/10-linkedlist_get_node
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net6.0/10-linkedlist_get_node.deps.json
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net6.0/10-linkedlist_get_node.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net6.0/10-linkedlist_get_node.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/net6.0/10-linkedlist_get_node.pdb
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/10-linkedlist_get_node.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/10-linkedlist_get_node.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/10-linkedlist_get_node.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/10-linkedlist_get_node.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/10-linkedlist_get_node.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/10-linkedlist_get_node.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/refint/10-linkedlist_get_node.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/10-linkedlist_get_node.pdb
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/10-linkedlist_get_node.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/net6.0/ref/10-linkedlist_get_node.dll
