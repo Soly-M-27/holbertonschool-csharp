@@ -1,0 +1,15 @@
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net6.0/9-linkedlist_pop
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net6.0/9-linkedlist_pop.deps.json
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net6.0/9-linkedlist_pop.runtimeconfig.json
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net6.0/9-linkedlist_pop.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net6.0/9-linkedlist_pop.pdb
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/9-linkedlist_pop.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/9-linkedlist_pop.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/9-linkedlist_pop.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/9-linkedlist_pop.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/9-linkedlist_pop.csproj.CoreCompileInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/9-linkedlist_pop.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/refint/9-linkedlist_pop.dll
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/9-linkedlist_pop.pdb
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/9-linkedlist_pop.genruntimeconfig.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net6.0/ref/9-linkedlist_pop.dll
