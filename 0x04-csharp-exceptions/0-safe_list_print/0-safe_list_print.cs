@@ -17,8 +17,7 @@ class List
         }
         catch (ArgumentOutOfRangeException)
         {
-            n = myList.Count;
-            return (n);
+            break;
         }
         return (count);
     }
