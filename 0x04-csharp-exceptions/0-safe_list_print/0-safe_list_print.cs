@@ -11,7 +11,7 @@ class List
         {
             for (int x = 0; x < n; x++)
             {
-                Console.WriteLine("{0:D}", myList[x]);
+                Console.WriteLine(myList[x]);
                 count++;
             }
         }
