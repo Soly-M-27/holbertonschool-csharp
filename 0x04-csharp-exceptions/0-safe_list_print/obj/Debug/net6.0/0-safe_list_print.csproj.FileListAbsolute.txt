@@ -1,0 +1,15 @@
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/net6.0/0-safe_list_print
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/net6.0/0-safe_list_print.deps.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/net6.0/0-safe_list_print.runtimeconfig.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/net6.0/0-safe_list_print.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/bin/Debug/net6.0/0-safe_list_print.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/0-safe_list_print.csproj.AssemblyReference.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/0-safe_list_print.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/0-safe_list_print.AssemblyInfoInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/0-safe_list_print.AssemblyInfo.cs
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/0-safe_list_print.csproj.CoreCompileInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/0-safe_list_print.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/refint/0-safe_list_print.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/0-safe_list_print.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/0-safe_list_print.genruntimeconfig.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x04-csharp-exceptions/0-safe_list_print/obj/Debug/net6.0/ref/0-safe_list_print.dll
