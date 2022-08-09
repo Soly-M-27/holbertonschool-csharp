@@ -15,11 +15,11 @@ class List
             }
             catch (ArgumentOutOfRangeException)
             {
-                Console.WriteLine("Out of Range");
+                Console.WriteLine("Out of range");
             }
             catch (DivideByZeroException)
             {
-                Console.WriteLine("Cannit divide by zero");
+                Console.WriteLine("Cannot divide by zero");
                 new_list.Add(0);
             }
         }
