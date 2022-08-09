@@ -2,13 +2,10 @@
 
 namespace Enemies
 {
+    /// <summary>
+    /// Public class within Enemies namespace
+    /// </summary>
     public class Zombie
     {
-        public string name { get; }
-
-        public override string ToString()
-        {
-            return base.ToString();
-        }
     }
 }
