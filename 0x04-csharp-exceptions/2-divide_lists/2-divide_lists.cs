@@ -11,16 +11,16 @@ class List
         {
             try
             {
-                newList.Add(list1[x] / list2[x]);
-            }
-            catch (DivideByZeroException)
-            {
-                Console.WriteLine("Cannot divide by zero");
-                new_list.Add(0);
+                new_list.Add(list1[x] / list2[x]);
             }
             catch (ArgumentOutOfRangeException)
             {
-                Console.WriteLine("Out of range");
+                Console.WriteLine("Out of Range");
+            }
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("Cannit divide by zero");
+                new_list.Add(0);
             }
         }
         return (new_list);
