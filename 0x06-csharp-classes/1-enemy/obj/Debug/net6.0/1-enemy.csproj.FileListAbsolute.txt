@@ -1,0 +1,16 @@
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/bin/Debug/net6.0/1-enemy
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/bin/Debug/net6.0/1-enemy.deps.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/bin/Debug/net6.0/1-enemy.runtimeconfig.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/bin/Debug/net6.0/1-enemy.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/bin/Debug/net6.0/1-enemy.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/1-enemy.csproj.AssemblyReference.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/1-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/1-enemy.AssemblyInfoInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/1-enemy.AssemblyInfo.cs
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/1-enemy.csproj.CoreCompileInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/1-enemy.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/refint/1-enemy.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/1-enemy.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/1-enemy.genruntimeconfig.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/obj/Debug/net6.0/ref/1-enemy.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/1-enemy/bin/Debug/net6.0/1-enemy.xml
