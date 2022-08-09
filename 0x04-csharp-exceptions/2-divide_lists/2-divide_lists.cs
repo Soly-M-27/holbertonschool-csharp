@@ -6,14 +6,12 @@ class List
     public static List<int> Divide(List<int> list1, List<int> list2, int listLength)
     {
         List<int> new_list = new List<int>();
-        int div = 0;
 
         for (int x = 0; x < listLength; x++)
         {
             try
             {
-                div = list1[x] / list2[x];
-                new_list.Add(div);
+                new_list.Add(list1[x] / list2[x]);
             }
             catch (ArgumentOutOfRangeException)
             {
