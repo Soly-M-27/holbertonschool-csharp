@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/skully/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/2-different_elements/2-different_elements.csproj",
       "projectName": "2-different_elements",
       "projectPath": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/2-different_elements/2-different_elements.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/skully/.nuget/packages/",
       "outputPath": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/skully/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/174/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

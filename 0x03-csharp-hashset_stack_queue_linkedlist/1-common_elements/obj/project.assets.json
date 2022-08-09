@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/skullydrasz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/1-common_elements.csproj",
+      "projectUniqueName": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/1-common_elements.csproj",
       "projectName": "1-common_elements",
-      "projectPath": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/1-common_elements.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/",
+      "projectPath": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/1-common_elements.csproj",
+      "packagesPath": "/home/skullydrasz/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/skullydrasz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/174/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

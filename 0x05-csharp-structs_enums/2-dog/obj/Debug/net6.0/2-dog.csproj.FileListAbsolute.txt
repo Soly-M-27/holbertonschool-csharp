@@ -1,0 +1,15 @@
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/bin/Debug/net6.0/2-dog
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/bin/Debug/net6.0/2-dog.deps.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/bin/Debug/net6.0/2-dog.runtimeconfig.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/bin/Debug/net6.0/2-dog.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/bin/Debug/net6.0/2-dog.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/2-dog.csproj.AssemblyReference.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/2-dog.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/2-dog.AssemblyInfoInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/2-dog.AssemblyInfo.cs
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/2-dog.csproj.CoreCompileInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/2-dog.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/refint/2-dog.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/2-dog.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/2-dog.genruntimeconfig.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/Debug/net6.0/ref/2-dog.dll

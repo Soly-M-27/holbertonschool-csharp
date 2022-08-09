@@ -1,0 +1,5 @@
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.csproj.AssemblyReference.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.GeneratedMSBuildEditorConfig.editorconfig
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.AssemblyInfoInputs.cache
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.AssemblyInfo.cs
+/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/2-different_elements/obj/Debug/netcoreapp2.1/2-different_elements.csproj.CoreCompileInputs.cache
