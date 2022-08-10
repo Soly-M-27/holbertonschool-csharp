@@ -10,12 +10,12 @@ namespace Enemies
         /// private field health 
         private int _health;
         /// private field _name
-        private string? _name = "(No name)";
-        
+        private string _name = "(No name)";
+
         /// <summary>
         /// Public Property Name
         /// </summary>
-        public string? Name { get => _name; set => _name = value; }
+        public string Name { get => _name; set => _name = value; }
 
         /// <summary>
         /// Public Constructor for Zombie class 
@@ -30,7 +30,7 @@ namespace Enemies
         /// If value is less than 0, throw an ArgumentException
         /// with the message "Health must be greater or equal to 0   
         /// </summary>
-        /// <param name="value"></param>
+        /// <param name="value"> value to be entered by main </param>
         public Zombie(int value)
         {
             if (value >= 0)
