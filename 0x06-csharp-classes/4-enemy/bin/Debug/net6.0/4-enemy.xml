@@ -9,12 +9,6 @@
             Public class within Enemies namespace
             </summary>
         </member>
-        <member name="F:Enemies.Zombie._health">
-            private field health set without declaration 
-        </member>
-        <member name="F:Enemies.Zombie._name">
-            private field name
-        </member>
         <member name="P:Enemies.Zombie.Name">
             <summary>
             Public Property Name

@@ -1,0 +1,5 @@
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/4-enemy/obj/Debug/netcoreapp2.1/4-enemy.csproj.AssemblyReference.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/4-enemy/obj/Debug/netcoreapp2.1/4-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/4-enemy/obj/Debug/netcoreapp2.1/4-enemy.AssemblyInfoInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/4-enemy/obj/Debug/netcoreapp2.1/4-enemy.AssemblyInfo.cs
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x06-csharp-classes/4-enemy/obj/Debug/netcoreapp2.1/4-enemy.csproj.CoreCompileInputs.cache

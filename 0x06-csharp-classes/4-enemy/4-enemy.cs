@@ -7,14 +7,13 @@ namespace Enemies
     /// </summary>
     public class Zombie
     {
-        /// private field health set without declaration 
         private int _health;
-        /// private field name
         private string? _name = "(No name)";
+        
         /// <summary>
         /// Public Property Name
         /// </summary>
-        public string? Name { get; set; }
+        public string? Name { get => _name; set => _name = value; }
 
         /// <summary>
         /// Public Constructor for Zombie class 
@@ -35,7 +34,6 @@ namespace Enemies
             if (value >= 0)
             {
                 this._health = value;
-                this._name = Name;
             }
             else
             {
