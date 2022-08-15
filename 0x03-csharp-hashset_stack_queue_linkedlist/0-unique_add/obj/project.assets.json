@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/0-unique_add.csproj",
+      "projectUniqueName": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/0-unique_add.csproj",
       "projectName": "0-unique_add",
-      "projectPath": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/0-unique_add.csproj",
+      "projectPath": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/0-unique_add.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/skully/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/obj/",
+      "outputPath": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/0-unique_add/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/174/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KgJtwfA6uMGP34V/OHxaB9ZMXcuaUMV5xNBEgVrIMPBx9x3cry+ZyugjpC09YVlu3yy0nQOx8I+fga44HQ7KUg==",
+  "dgSpecHash": "fO2TtsZb/0Tq3icu2cUKwtNuOueagX0Nt4UZDA+LGHukzISPXmS1uJTHCPNonBCQT7lO9VkoPFbA30yZvc2G2Q==",
   "success": true,
   "projectFilePath": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/MyMath.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/root/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
