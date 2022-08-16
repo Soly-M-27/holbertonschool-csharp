@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-shape</name>
+    </assembly>
+    <members>
+        <member name="T:Shape">
+            <summary>
+            Class Shape
+            </summary>
+        </member>
+        <member name="M:Shape.Area">
+            <summary>
+            Method to throw new exception
+            </summary>
+            <returns> throw new NotImplementedException </returns>
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>
+            public int Width
+            </summary>
+        </member>
+    </members>
+</doc>

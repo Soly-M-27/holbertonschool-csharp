@@ -1,0 +1,16 @@
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.deps.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.runtimeconfig.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.csproj.AssemblyReference.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.AssemblyInfoInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.AssemblyInfo.cs
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.csproj.CoreCompileInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/refint/6-shape.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/6-shape.genruntimeconfig.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/obj/Debug/net6.0/ref/6-shape.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/6-shape/bin/Debug/net6.0/6-shape.xml
