@@ -7,6 +7,10 @@ using System.Reflection;
 /// </summary>
 public class Obj
 {
+    /// <summary>
+    /// Method that prints the names of the available properties and methods of an object
+    /// </summary>
+    /// <param name="myObj"> object </param>
     public static void Print(object myObj)
     {
         TypeInfo object_type = myObj.GetType().GetTypeInfo();
