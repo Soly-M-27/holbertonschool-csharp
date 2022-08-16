@@ -66,7 +66,7 @@ class Rectangle : Shape
 /// <summary>
 /// Class Square
 /// </summary>
-class Square
+class Square : Rectangle
 {
     private int size;
     /// <summary>

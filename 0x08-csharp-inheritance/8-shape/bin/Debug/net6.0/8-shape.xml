@@ -38,6 +38,11 @@
             </summary>
             <returns> String overriden </returns>
         </member>
+        <member name="T:Square">
+            <summary>
+            Class Square
+            </summary>
+        </member>
         <member name="P:Square.Size">
             <summary>
             public int Size property
