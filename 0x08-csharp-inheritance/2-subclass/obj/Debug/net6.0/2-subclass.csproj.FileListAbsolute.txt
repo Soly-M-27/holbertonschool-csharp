@@ -1,0 +1,16 @@
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/net6.0/2-subclass
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/net6.0/2-subclass.deps.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/net6.0/2-subclass.runtimeconfig.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/net6.0/2-subclass.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/net6.0/2-subclass.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/2-subclass.csproj.AssemblyReference.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/2-subclass.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/2-subclass.AssemblyInfoInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/2-subclass.AssemblyInfo.cs
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/2-subclass.csproj.CoreCompileInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/2-subclass.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/refint/2-subclass.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/2-subclass.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/2-subclass.genruntimeconfig.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/obj/Debug/net6.0/ref/2-subclass.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/2-subclass/bin/Debug/net6.0/2-subclass.xml
