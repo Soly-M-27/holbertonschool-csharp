@@ -77,7 +77,7 @@ class Square
         get => size;
         set
         {
-            size = (value < 0) ? throw new ArgumentException("Size must be greater than or equal to 0") : size = value;
+            size = Height = Width = (value < 0) ? throw new ArgumentException("Size must be greater than or equal to 0") : size = Height = Width = value;
         }
     }
 }
