@@ -1,0 +1,16 @@
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/bin/Debug/net6.0/1-instance
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/bin/Debug/net6.0/1-instance.deps.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/bin/Debug/net6.0/1-instance.runtimeconfig.json
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/bin/Debug/net6.0/1-instance.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/bin/Debug/net6.0/1-instance.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/1-instance.csproj.AssemblyReference.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/1-instance.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/1-instance.AssemblyInfoInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/1-instance.AssemblyInfo.cs
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/1-instance.csproj.CoreCompileInputs.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/1-instance.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/refint/1-instance.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/1-instance.pdb
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/1-instance.genruntimeconfig.cache
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/obj/Debug/net6.0/ref/1-instance.dll
+/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x08-csharp-inheritance/1-instance/bin/Debug/net6.0/1-instance.xml
