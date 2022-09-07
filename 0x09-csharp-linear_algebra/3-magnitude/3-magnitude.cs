@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 /// <summary>
 /// Public class VectorMath
@@ -14,18 +15,18 @@ public class VectorMath
     {
         double res = 0f;
 
-        if (vector.GetType() !=  && vector.GetType() != typeof(Vector3))
+        if (vector.Length > 3 || vector.Length <= 1)
         {
             return (-1);
         }
 
-        if (vector.GetType() == typeof(Vector2))
+        if (vector.Length == 2)
         {
-            res = Math.Sqrt(Math.Pow(vector.x, 2) + Math.Pow(vector.y, 2));
+            res = Math.Sqrt(Math.Pow(Math.Abs(vector[0]), 2) + Math.Pow(Math.Abs(vector[1]), 2));
         }
-        else if (vector.GetType() == typeof(Vector3))
+        else if (vector.Length == 3)
         {
-            res = Math.Sqrt(Math.Pow(vector.x, 2) + Math.Pow(vector.y, 2) + Math.Pow(vector.z, 2));
+            res = Math.Sqrt(Math.Pow(Math.Abs(vector[0]), 2) + Math.Pow(Math.Abs(vector[1]), 2) + Math.Pow(Math.Abs(vector[2]), 2));
         }
 
         return (Math.Round(res / 100d, 0) * 100);

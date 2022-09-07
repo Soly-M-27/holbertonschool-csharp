@@ -1,13 +1,14 @@
-using System;
+/*using System;
+using System.Collections.Generic;
 
 class Program
 {
     static void Main()
     {
-        double vector1 = new Vector(3, 4);
-        double vector2 = new Vector(3, 4, 5);
+        double[] v_2 = new double[3, 4];
+        double[] v_3 = new double[3, 4, 5];
 
-        Console.log(VectorMath.Magnitude(vector1));
-        Console.log(VectorMath.Magnitude(vector2));
+        Console.Log(VectorMath.Magnitude(v_2));
+        Console.Log(VectorMath.Magnitude(v_3));
     }
-}
+}*/
