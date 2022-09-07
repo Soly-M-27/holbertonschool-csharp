@@ -13,3 +13,11 @@
 /mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.pdb
 /mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.genruntimeconfig.cache
 /mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/ref/3-magnitude.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/refint/3-magnitude.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.pdb

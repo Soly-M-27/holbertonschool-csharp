@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/3-magnitude.csproj": {}
+    "/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/3-magnitude.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/3-magnitude.csproj": {
+    "/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/3-magnitude.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/3-magnitude.csproj",
+        "projectUniqueName": "/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/3-magnitude.csproj",
         "projectName": "3-magnitude",
-        "projectPath": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/3-magnitude.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/solym/Solymar/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/",
+        "projectPath": "/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/3-magnitude.csproj",
+        "packagesPath": "/Users/solymarsanchez/.nuget/packages/",
+        "outputPath": "/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/Users/solymarsanchez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
         }
       }
     }
