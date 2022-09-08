@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 /// <summary>
 /// Public class VectorMath
