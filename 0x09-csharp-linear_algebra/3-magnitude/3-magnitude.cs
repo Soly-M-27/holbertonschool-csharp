@@ -28,6 +28,6 @@ public class VectorMath
             res = Math.Sqrt(Math.Pow(Math.Abs(vector[0]), 2) + Math.Pow(Math.Abs(vector[1]), 2) + Math.Pow(Math.Abs(vector[2]), 2));
         }
 
-        return (Math.Round(res), 2);
+        return (Math.Round(res, 2));
     }
 }

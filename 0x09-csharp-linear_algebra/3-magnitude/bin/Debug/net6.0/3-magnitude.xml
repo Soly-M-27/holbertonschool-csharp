@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-magnitude</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary>
+            Public class VectorMath
+            </summary>
+        </member>
+        <member name="M:VectorMath.Magnitude(System.Double[])">
+            <summary>
+            Public static method for the Magnitude of a 2D or 3D vector
+            </summary>
+            <param name="vector"> 2D or 3D vector </param>
+            <returns> Rounded to the 100th double representing vector magnitude </returns>
+        </member>
+    </members>
+</doc>

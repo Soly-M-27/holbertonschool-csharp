@@ -21,3 +21,11 @@
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.dll
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/refint/3-magnitude.dll
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/bin/Debug/net6.0/3-magnitude.xml
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/3-magnitude.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/3-magnitude/obj/Debug/net6.0/ref/3-magnitude.dll
