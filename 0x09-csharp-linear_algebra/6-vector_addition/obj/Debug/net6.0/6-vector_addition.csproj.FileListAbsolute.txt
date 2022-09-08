@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/net6.0/6-vector_addition
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/net6.0/6-vector_addition.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/net6.0/6-vector_addition.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/net6.0/6-vector_addition.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/net6.0/6-vector_addition.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/refint/6-vector_addition.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/6-vector_addition.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/net6.0/ref/6-vector_addition.dll
