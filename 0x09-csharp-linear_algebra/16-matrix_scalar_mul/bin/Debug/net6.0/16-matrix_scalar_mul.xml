@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>16-matrix_scalar_mul</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>
+            Public Class MatrixMath with Methods MultiplyScalar
+            </summary>
+        </member>
+        <member name="M:MatrixMath.MultiplyScalar(System.Double[0:,0:],System.Double)">
+            <summary>
+            Public Method MultiplyScalar with multiplies a scalar by a 2D or 3D matrix
+            </summary>
+            <param name="matrix"> 2D or 3D matrix </param>
+            <param name="scalar"> double scalar to use in multiplication </param>
+            <returns> new matrix with the result from scalar multiplication </returns>
+        </member>
+    </members>
+</doc>

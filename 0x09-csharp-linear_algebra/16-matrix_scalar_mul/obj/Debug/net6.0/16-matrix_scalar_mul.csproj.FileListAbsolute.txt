@@ -13,3 +13,4 @@
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.pdb
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.genruntimeconfig.cache
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/ref/16-matrix_scalar_mul.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/net6.0/16-matrix_scalar_mul.xml
