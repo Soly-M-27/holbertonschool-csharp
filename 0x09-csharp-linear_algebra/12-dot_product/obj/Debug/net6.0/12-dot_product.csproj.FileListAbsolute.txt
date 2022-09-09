@@ -1,0 +1,16 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/net6.0/12-dot_product
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/net6.0/12-dot_product.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/net6.0/12-dot_product.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/net6.0/12-dot_product.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/net6.0/12-dot_product.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/12-dot_product.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/12-dot_product.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/12-dot_product.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/12-dot_product.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/12-dot_product.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/12-dot_product.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/refint/12-dot_product.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/12-dot_product.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/12-dot_product.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/obj/Debug/net6.0/ref/12-dot_product.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/12-dot_product/bin/Debug/net6.0/12-dot_product.xml
