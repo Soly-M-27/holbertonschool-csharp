@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/net6.0/16-matrix_scalar_mul
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/net6.0/16-matrix_scalar_mul.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/net6.0/16-matrix_scalar_mul.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/net6.0/16-matrix_scalar_mul.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/net6.0/16-matrix_scalar_mul.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/refint/16-matrix_scalar_mul.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/16-matrix_scalar_mul.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/net6.0/ref/16-matrix_scalar_mul.dll
