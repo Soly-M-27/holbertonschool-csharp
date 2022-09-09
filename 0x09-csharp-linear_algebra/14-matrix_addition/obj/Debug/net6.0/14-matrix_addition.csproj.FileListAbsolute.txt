@@ -1,0 +1,16 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/bin/Debug/net6.0/14-matrix_addition
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/bin/Debug/net6.0/14-matrix_addition.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/bin/Debug/net6.0/14-matrix_addition.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/bin/Debug/net6.0/14-matrix_addition.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/bin/Debug/net6.0/14-matrix_addition.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/14-matrix_addition.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/14-matrix_addition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/14-matrix_addition.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/14-matrix_addition.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/14-matrix_addition.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/14-matrix_addition.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/refint/14-matrix_addition.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/14-matrix_addition.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/14-matrix_addition.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/obj/Debug/net6.0/ref/14-matrix_addition.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/14-matrix_addition/bin/Debug/net6.0/14-matrix_addition.xml
