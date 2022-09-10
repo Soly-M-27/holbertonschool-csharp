@@ -37,5 +37,6 @@ public class MatrixMath
             }
             return new_matrix;
         }
+        return new double[,] {{-1}};
     }
 }
