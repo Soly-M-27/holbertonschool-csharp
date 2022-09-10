@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/bin/Debug/net6.0/20-matrix_rotate_2D
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/bin/Debug/net6.0/20-matrix_rotate_2D.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/bin/Debug/net6.0/20-matrix_rotate_2D.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/bin/Debug/net6.0/20-matrix_rotate_2D.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/bin/Debug/net6.0/20-matrix_rotate_2D.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/20-matrix_rotate_2D.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/20-matrix_rotate_2D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/20-matrix_rotate_2D.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/20-matrix_rotate_2D.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/20-matrix_rotate_2D.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/20-matrix_rotate_2D.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/refint/20-matrix_rotate_2D.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/20-matrix_rotate_2D.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/20-matrix_rotate_2D.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/20-matrix_rotate_2D/obj/Debug/net6.0/ref/20-matrix_rotate_2D.dll
