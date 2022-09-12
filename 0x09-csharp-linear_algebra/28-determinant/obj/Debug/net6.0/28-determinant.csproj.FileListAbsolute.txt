@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/bin/Debug/net6.0/28-determinant
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/bin/Debug/net6.0/28-determinant.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/bin/Debug/net6.0/28-determinant.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/bin/Debug/net6.0/28-determinant.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/bin/Debug/net6.0/28-determinant.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/28-determinant.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/28-determinant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/28-determinant.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/28-determinant.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/28-determinant.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/28-determinant.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/refint/28-determinant.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/28-determinant.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/28-determinant.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/28-determinant/obj/Debug/net6.0/ref/28-determinant.dll
