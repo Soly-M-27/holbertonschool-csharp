@@ -1,12 +1,12 @@
 ﻿using System;
 
 /// <summary>
-/// Public Class VectorMath with Method Inverse2D
+/// Public Class MatrixMath with Method Inverse2D
 /// </summary>
-public class VectorMath
+public class MatrixMath
 {
     /// <summary>
-    /// Public Method Inverse 2D to find the Identity Matrix
+    /// Public Method Inverse2D to find the Identity Matrix
     /// </summary>
     /// <param name="matrix"> 2D matrix </param>
     /// <returns> Inverse Matrix or -1 if matrix is not 2D </returns>
