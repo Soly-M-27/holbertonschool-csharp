@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>30-cross_product</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary>
+            Publuc Class VectorMath with CrossProduct Method
+            </summary>
+        </member>
+        <member name="M:VectorMath.CrossProduct(System.Double[],System.Double[])">
+            <summary>
+            Public Method CrossProduct between two vectors
+            </summary>
+            <param name="vector1"> 3D vector </param>
+            <param name="vector2"> 3D vector </param>
+            <returns> Cross Product of the vectors or -1 </returns>
+        </member>
+    </members>
+</doc>
