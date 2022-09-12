@@ -17,7 +17,7 @@ public class VectorMath
         {
             double[] v_3 = {0, 0, 0};
             v_3[0] = vector1[1] * vector2[2] - vector1[2] * vector2[1]; 
-            v_3[1] = vector1[0] * vector2[2] - vector1[2] * vector2[0];
+            v_3[1] = vector1[2] * vector2[0] - vector1[0] * vector2[2];
             v_3[2] = vector1[0] * vector2[1] - vector1[1] * vector2[0];
             return v_3;
         }
