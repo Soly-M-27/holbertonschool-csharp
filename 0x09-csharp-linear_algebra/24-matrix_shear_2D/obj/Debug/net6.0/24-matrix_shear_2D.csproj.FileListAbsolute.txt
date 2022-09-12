@@ -13,3 +13,4 @@
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net6.0/24-matrix_shear_2D.pdb
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net6.0/24-matrix_shear_2D.genruntimeconfig.cache
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net6.0/ref/24-matrix_shear_2D.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net6.0/24-matrix_shear_2D.xml

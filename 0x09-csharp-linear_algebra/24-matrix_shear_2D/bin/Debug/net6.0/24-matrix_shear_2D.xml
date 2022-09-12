@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>24-matrix_shear_2D</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>
+            Public Class Matrix Math with Shear2D Method
+            </summary>
+        </member>
+        <member name="M:MatrixMath.Shear2D(System.Double[0:,0:],System.Char,System.Double)">
+            <summary>
+            Public Shear2D Method where we factor in the shear onto the matrix,
+            moving through the x or y axis and transform the matrix.
+            </summary>
+            <param name="matrix"> 2D matrix </param>
+            <param name="direction"> x or y axis direction </param>
+            <param name="factor"> Shear to factor in </param>
+            <returns> new matrix or -1 if matrix is not of correct size </returns>
+        </member>
+    </members>
+</doc>
