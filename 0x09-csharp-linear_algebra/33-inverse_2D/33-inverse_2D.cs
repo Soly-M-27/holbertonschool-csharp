@@ -12,7 +12,7 @@ public class VectorMath
     /// <returns> Inverse Matrix or -1 if matrix is not 2D </returns>
     public static double[,] Inverse2D(double[,] matrix)
     {
-        if (matrix.GetLength(0) == 2 & matrix.GetLength(1) == 2)
+        if (matrix.GetLength(0) == 2 && matrix.GetLength(1) == 2)
         {
             //matrixes for formula and final result
             double[,] Inverse_Matrix = new double[2, 2];
