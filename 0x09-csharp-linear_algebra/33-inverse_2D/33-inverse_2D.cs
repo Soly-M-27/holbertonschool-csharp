@@ -30,9 +30,9 @@ public class VectorMath
 
             double formula = (1 / ((a * d) - (b * c)));
 
-            for (int x = 0; x < 2; x++)
+            for (int x = 0; x < matrix.GetLength(1); x++)
             {
-                for (int y = 0; y < 2; y++)
+                for (int y = 0; y < matrix.GetLength(0); y++)
                 {
                     Inverse_Matrix[x, y] = Math.Round(formula * new_temp_inverse[x, y], 2);
                 }
