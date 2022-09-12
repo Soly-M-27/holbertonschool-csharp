@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         double[,] matrix2 = {{1, 2}, {3, 4}};
-        double[,] inverse = VectorMath.Inverse2D(matrix2);
+        double[,] inverse = MatrixMath.Inverse2D(matrix2);
 
         for (int x = 0; x < 2; x++)
         {
