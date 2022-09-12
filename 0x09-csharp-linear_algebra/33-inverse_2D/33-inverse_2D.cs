@@ -37,7 +37,7 @@ public class VectorMath
             {
                 for (int y = 0; y < 2; y++)
                 {
-                    Inverse_Matrix[x, y] = formula * new_temp_inverse[x, y];
+                    Inverse_Matrix[x, y] = Math.Round(formula * new_temp_inverse[x, y], 2);
                 }
             }
             return Inverse_Matrix;
