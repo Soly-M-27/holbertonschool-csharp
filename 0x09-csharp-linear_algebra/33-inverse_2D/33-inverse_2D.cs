@@ -15,23 +15,19 @@ public class VectorMath
         if (matrix.GetLength(0) == 2 && matrix.GetLength(1) == 2 &&
             (matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0]) != 0)
         {
-            //matrixes for formula and final result
             double[,] Inverse_Matrix = new double[,] {{0, 0}, {0, 0}};
             double[,] new_temp_inverse = new double[,] {{0, 0}, {0, 0}};
 
-            //Setting up a, b, c and d for formula
             double a = matrix[0, 0];
             double b = matrix[0, 1];
             double c = matrix[1, 0];
             double d = matrix[1, 1];
 
-            //Set up new inversed matrix for formula
             new_temp_inverse[0, 0] = d;
             new_temp_inverse[0, 1] = -b;
             new_temp_inverse[1, 0] = -c;
             new_temp_inverse[1, 1] = a;
 
-            //Set up formula to be multiplied by new inversed matrix
             double formula = (1 / ((a * d) - (b * c)));
 
             for (int x = 0; x < 2; x++)
