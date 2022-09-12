@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>18-matrix_matrix_mul</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>
+             Public Class MatrixMath
+             </summary>
+        </member>
+        <member name="M:MatrixMath.Multiply(System.Double[0:,0:],System.Double[0:,0:])">
+            <summary>
+            Public Method Multiply to multiply two matrices of different dimensions
+            </summary>
+            <param name="matrix1"> matrix </param>
+            <param name="matrix2"> other matrix </param>
+            <returns> new matrix or -1 </returns>
+        </member>
+    </members>
+</doc>

@@ -13,3 +13,4 @@
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net6.0/18-matrix_matrix_mul.pdb
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net6.0/18-matrix_matrix_mul.genruntimeconfig.cache
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net6.0/ref/18-matrix_matrix_mul.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net6.0/18-matrix_matrix_mul.xml
