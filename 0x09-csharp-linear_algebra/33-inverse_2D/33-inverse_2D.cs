@@ -16,8 +16,8 @@ public class VectorMath
             (matrix[0, 0] * matrix[1, 1] - matrix[0, 1] * matrix[1, 0]) != 0)
         {
             //matrixes for formula and final result
-            double[,] Inverse_Matrix = new double[2, 2];
-            double[,] new_temp_inverse = new double[2, 2];
+            double[,] Inverse_Matrix = new double[,] {{0, 0}, {0, 0}};
+            double[,] new_temp_inverse = new double[,] {{0, 0}, {0, 0}};
 
             //Setting up a, b, c and d for formula
             double a = matrix[0, 0];
@@ -32,7 +32,7 @@ public class VectorMath
             new_temp_inverse[1, 1] = a;
 
             //Set up formula to be multiplied by new inversed matrix
-            double formula = (1 / ((a*d) - (b*c)));
+            double formula = (1 / ((a * d) - (b * c)));
 
             for (int x = 0; x < 2; x++)
             {
@@ -43,6 +43,6 @@ public class VectorMath
             }
             return Inverse_Matrix;
         }
-        return new double[,] {{-1}};
+        return new double[,] { { -1 } };
     }
 }
