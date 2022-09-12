@@ -1,0 +1,16 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/net6.0/25-matrix_transpose
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/net6.0/25-matrix_transpose.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/net6.0/25-matrix_transpose.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/net6.0/25-matrix_transpose.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/net6.0/25-matrix_transpose.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/25-matrix_transpose.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/25-matrix_transpose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/25-matrix_transpose.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/25-matrix_transpose.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/25-matrix_transpose.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/25-matrix_transpose.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/refint/25-matrix_transpose.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/25-matrix_transpose.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/25-matrix_transpose.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/net6.0/ref/25-matrix_transpose.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/net6.0/25-matrix_transpose.xml

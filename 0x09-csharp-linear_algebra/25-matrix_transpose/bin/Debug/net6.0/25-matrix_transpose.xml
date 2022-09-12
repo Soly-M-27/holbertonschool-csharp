@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>25-matrix_transpose</name>
+    </assembly>
+    <members>
+        <member name="T:MatrixMath">
+            <summary>
+            Public Class MatrixMath with Transpose Method
+            </summary>
+        </member>
+        <member name="M:MatrixMath.Transpose(System.Double[0:,0:])">
+            <summary>
+            Public Method Transpose to switch rows and colums of entering matrix
+            </summary>
+            <param name="matrix"> matrix </param>
+            <returns> new transposed matrix </returns>
+        </member>
+    </members>
+</doc>
