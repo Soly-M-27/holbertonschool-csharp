@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-dequeue</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>A generic Queue class</summary>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary>A Node class implementation within a Queue</summary>
+        </member>
+        <member name="F:Queue`1.Node.value">
+            <summary>The value inside of the node</summary>
+        </member>
+        <member name="F:Queue`1.Node.next">
+            <summary>The node that follows, if none value is null</summary> 
+        </member>
+        <member name="M:Queue`1.Node.#ctor(`0)">
+            <summary>Constructor method for a Node class</summary>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary>Adds a new node at the end of the queue</summary>
+        </member>
+        <member name="M:Queue`1.Dequeue">
+            <summary>Removes the first node in the queue and returns the value</summary>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>Returns the type of the Queue that was created</summary>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>Returns the number of nodes in the queue</summary>
+        </member>
+    </members>
+</doc>

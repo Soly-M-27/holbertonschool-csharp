@@ -13,3 +13,4 @@
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/1-enqueue/obj/Debug/net6.0/1-enqueue.pdb
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/1-enqueue/obj/Debug/net6.0/1-enqueue.genruntimeconfig.cache
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/1-enqueue/obj/Debug/net6.0/ref/1-enqueue.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/1-enqueue/bin/Debug/net6.0/1-enqueue.xml

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enqueue</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+             A generic Queue class
+             </summary>
+        </member>
+        <member name="F:Queue`1.head">
+            <summary>
+            Declaration of private field properties
+            </summary> 
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>
+             Returns created type from Queue class
+             </summary> 
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary>
+            public class called Node with properties:
+            value: set initial value null, can be of any type
+            next: set initial value null, must be an obj of type Node
+            
+            Define a constructor that takes a value for a new Node as its 
+            only parameter and sets it. 
+            </summary>
+        </member>
+        <member name="F:Queue`1.Node.next">
+            <summary>
+            Getter for the next variable of type Node, initially declared null
+            </summary>
+        </member>
+        <member name="M:Queue`1.Node.#ctor(`0)">
+            <summary>
+            Constructor method for Node class
+            </summary>
+            <param name="value">Sets/Returns the value of a generic type parameter</param>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary>
+            Adds new Node at end of Queue
+            </summary>
+            <param name="value">Variable of generic type parameter already specified by client</param>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>
+            Returns the total number of Nodes in the Queue
+            </summary>
+            <returns> Total number within count variable </returns>
+        </member>
+    </members>
+</doc>
