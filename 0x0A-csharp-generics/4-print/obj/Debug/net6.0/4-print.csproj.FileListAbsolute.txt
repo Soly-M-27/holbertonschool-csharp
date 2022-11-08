@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/net6.0/4-print
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/net6.0/4-print.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/net6.0/4-print.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/net6.0/4-print.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/net6.0/4-print.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/4-print.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/4-print.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/4-print.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/4-print.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/4-print.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/4-print.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/refint/4-print.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/4-print.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/4-print.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/net6.0/ref/4-print.dll
