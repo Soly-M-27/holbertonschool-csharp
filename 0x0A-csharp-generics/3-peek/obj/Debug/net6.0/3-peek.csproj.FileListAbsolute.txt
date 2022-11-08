@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/net6.0/3-peek
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/net6.0/3-peek.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/net6.0/3-peek.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/net6.0/3-peek.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/bin/Debug/net6.0/3-peek.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/3-peek.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/3-peek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/3-peek.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/3-peek.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/3-peek.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/3-peek.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/refint/3-peek.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/3-peek.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/3-peek.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/3-peek/obj/Debug/net6.0/ref/3-peek.dll

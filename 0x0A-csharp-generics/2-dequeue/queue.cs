@@ -12,14 +12,6 @@ public class Queue<T>
     private Node tail;
     private int count;
     
-    ///<summary>
-    /// Returns created type from Queue class
-    /// </summary> 
-    public Type CheckType()
-    {
-        return typeof(T);
-    }
-
     /// <summary>
     /// public class called Node with properties:
     /// value: set initial value null, can be of any type
@@ -85,6 +77,14 @@ public class Queue<T>
             count -= 1;
             return tail.value;
         }
+    }
+
+    ///<summary>
+    /// Returns created type from Queue class
+    /// </summary> 
+    public Type CheckType()
+    {
+        return typeof(T);
     }
 
     /// <summary>
