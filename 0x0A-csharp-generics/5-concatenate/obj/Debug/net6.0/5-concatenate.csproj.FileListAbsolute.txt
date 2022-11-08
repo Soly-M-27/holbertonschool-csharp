@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/net6.0/5-concatenate.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/refint/5-concatenate.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/5-concatenate.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/net6.0/ref/5-concatenate.dll
