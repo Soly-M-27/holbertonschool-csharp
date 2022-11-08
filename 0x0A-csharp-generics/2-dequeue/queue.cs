@@ -1,67 +1,46 @@
 ﻿using System;
 
-///<summary>
-/// A generic Queue class
-/// </summary>
+///<summary>A generic Queue class</summary>
 public class Queue<T>
 {
-    /// <summary>
-    /// Declaration of private field properties
-    /// </summary> 
     private Node head;
     private Node tail;
     private int count;
-    
-    /// <summary>
-    /// public class called Node with properties:
-    /// value: set initial value null, can be of any type
-    /// next: set initial value null, must be an obj of type Node
-    /// 
-    /// Define a constructor that takes a value for a new Node as its 
-    /// only parameter and sets it. 
-    /// </summary>
+
+    ///<summary>A Node class implementation within a Queue</summary>
     public class Node
     {
-        private T value = default(T);
-
-        /// <summary>
-        /// Getter for the next variable of type Node, initially declared null
-        /// </summary>
+        ///<summary>The value inside of the node</summary>
+        public T value = default(T);
+        ///<summary>The node that follows, if none value is null</summary> 
         public Node next = null;
 
-        /// <summary>
-        /// Constructor method for Node class
-        /// </summary>
-        /// <param name="value">Sets/Returns the value of a generic type parameter</param>
+        ///<summary>Constructor method for a Node class</summary>
         public Node(T value)
         {
             this.value = value;
         }
     }
 
-    /// <summary>
-    /// Adds new Node at end of Queue
-    /// </summary>
-    /// <param name="value">Variable of generic type parameter already specified by client</param>
+    ///<summary>Adds a new node at the end of the queue</summary>
     public void Enqueue(T value)
     {
-        Node new_Node = new Node(value);
+        Node newNode = new Node(value);
 
         if (head == null)
         {
-            head = tail = new_Node;
+            head = tail = newNode;
         }
         else
         {
-            tail.next = new_Node;
-            tail = new_Node;
+            tail.next = newNode;
+            tail = newNode;
         }
         count += 1;
+        
     }
 
-    ///<summary>
-    /// Removes the first node in the queue and returns the value
-    /// </summary>
+    ///<summary>Removes the first node in the queue and returns the value</summary>
     public T Dequeue()
     {
         if (head == null)
@@ -78,18 +57,13 @@ public class Queue<T>
         }
     }
 
-    ///<summary>
-    /// Returns the type of the Queue that was created
-    /// </summary>
+    ///<summary>Returns the type of the Queue that was created</summary>
     public Type CheckType()
     {
         return typeof(T);
     }
 
-    /// <summary>
-    /// Returns the total number of Nodes in the Queue
-    /// </summary>
-    /// <returns> Total number within count variable </returns>
+    ///<summary>Returns the number of nodes in the queue</summary>
     public int Count()
     {
         return count;
