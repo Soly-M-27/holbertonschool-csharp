@@ -59,10 +59,9 @@ public class Queue<T>
         count += 1;
     }
 
-    /// <summary>
-    /// Removes the first Node in the Queue and Returns its value
+    ///<summary>
+    /// Removes the first node in the queue and returns the value
     /// </summary>
-    /// <returns> The value of the first Node removed from Queue </returns>
     public T Dequeue()
     {
         if (head == null)
@@ -80,8 +79,8 @@ public class Queue<T>
     }
 
     ///<summary>
-    /// Returns created type from Queue class
-    /// </summary> 
+    /// Returns the type of the Queue that was created
+    /// </summary>
     public Type CheckType()
     {
         return typeof(T);
