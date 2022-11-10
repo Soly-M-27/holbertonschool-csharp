@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/net6.0/4-check_yourself
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/net6.0/4-check_yourself.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/net6.0/4-check_yourself.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/net6.0/4-check_yourself.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/net6.0/4-check_yourself.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/4-check_yourself.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/4-check_yourself.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/4-check_yourself.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/4-check_yourself.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/4-check_yourself.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/4-check_yourself.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/refint/4-check_yourself.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/4-check_yourself.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/4-check_yourself.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/net6.0/ref/4-check_yourself.dll
