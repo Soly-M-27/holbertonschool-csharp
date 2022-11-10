@@ -66,15 +66,18 @@ class Player
         if (heal <= 0)
             Console.WriteLine($"{name} heals 0 HP!");
         else
+        {
             Console.WriteLine($"{name} heals {heal} HP!");
+            ValidateHP(hp + heal);
+        }
     }
 
     /// <summary>
     /// Sets the new value of the Player’s hp
     /// </summary>
     /// <param name="newHp"> if newHp is negative, set hp to 0. 
-    ///                      If newHp is larger than maxHp, set hp to the value of maxHp.
-    ///                      Otherwise, set hp to the value of newHp. </param>
+    /// If newHp is larger than maxHp, set hp to the value of maxHp.
+    /// Otherwise, set hp to the value of newHp. </param>
     public void ValidateHP(float newHp)
     {
         if (newHp <= 0)

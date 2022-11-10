@@ -66,7 +66,10 @@ class Player
         if (heal <= 0)
             Console.WriteLine($"{name} heals 0 HP!");
         else
+        {
             Console.WriteLine($"{name} heals {heal} HP!");
+            ValidateHP(hp + heal);
+        }
     }
 
     /// <summary>

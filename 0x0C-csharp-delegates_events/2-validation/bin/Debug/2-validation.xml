@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-validation</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary> Public class Player, representing an object (Player obj).</summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>
+             Constructor prototype method for Player.
+             </summary>
+            <param name="name"> name of player</param>
+            <param name="maxHp">health points of player</param>
+            
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+             Prints the current health of the player.
+             </summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary>
+             Handles health related events
+             </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>
+            Prints name takes damage damage!
+            If damage is negative, the Player takes 0 damage 
+            and prints name takes 0 damage!
+            </summary>
+            <param name="damage"> if it is negative, the Player takes 0 damage </param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>
+            Prints health points recovered
+            </summary>
+            <param name="heal"> If heal is negative, the Player heals 0 
+            HP and prints name heals 0 HP!</param>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>
+            Sets the new value of the Player’s hp
+            </summary>
+            <param name="newHp"> if newHp is negative, set hp to 0. 
+                                 If newHp is larger than maxHp, set hp to the value of maxHp.
+                                 Otherwise, set hp to the value of newHp. </param>
+        </member>
+    </members>
+</doc>
