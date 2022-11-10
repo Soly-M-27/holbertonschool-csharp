@@ -127,7 +127,7 @@ class Player
     /// </summary>
     /// <param name="sender">Object sent</param>
     /// <param name="e">EventHandler arguements</param>
-    private void CheckStatus(object sender, CurrentHPArgs e)
+    private void CheckStatus(object? sender, CurrentHPArgs e)
     {
         if (e.currentHp == maxHp)
             status = $"{name} is in perfect health!";
@@ -166,22 +166,22 @@ delegate float CalculateModifier(float baseValue, Modifier modifier);
 /// <summary>
 /// New class CurrentHPArgs that inherits from EventArgs.
 /// Properties: 
-///     currentHp: public float that cannot be modified
+/// currentHp: public float that cannot be modified
 /// Constructor:
-///     Takes a float newHp and sets it as currentHp‘s value
+/// Takes a float newHp and sets it as currentHp‘s value
 /// </summary>
 class CurrentHPArgs : EventArgs
 {
     /// <summary>
     /// Properties: 
-    ///     currentHp: public float that cannot be modified
+    /// currentHp: public float that cannot be modified
     /// </summary>
     /// <value>public float that cannot be modified, null if not provided</value>
     public float currentHp { get; }
 
     /// <summary>
     /// Constructor:
-    ///     Takes a float newHp and sets it as currentHp‘s value 
+    /// Takes a float newHp and sets it as currentHp‘s value 
     /// </summary>
     /// <param name="newHp">sets it as currentHp‘s value</param>
     public CurrentHPArgs(float newHp)
