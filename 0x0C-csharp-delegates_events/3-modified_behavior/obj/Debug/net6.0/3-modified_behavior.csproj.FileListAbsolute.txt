@@ -13,3 +13,4 @@
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/net6.0/3-modified_behavior.pdb
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/net6.0/3-modified_behavior.genruntimeconfig.cache
 /Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/net6.0/ref/3-modified_behavior.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/net6.0/3-modified_behavior.xml

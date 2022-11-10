@@ -76,8 +76,8 @@ class Player
     /// Sets the new value of the Player’s hp
     /// </summary>
     /// <param name="newHp"> if newHp is negative, set hp to 0. 
-    ///                      If newHp is larger than maxHp, set hp to the value of maxHp.
-    ///                      Otherwise, set hp to the value of newHp. </param>
+    /// If newHp is larger than maxHp, set hp to the value of maxHp.
+    /// Otherwise, set hp to the value of newHp. </param>
     public void ValidateHP(float newHp)
     {
         if (newHp <= 0)
@@ -122,6 +122,6 @@ enum Modifier
 /// newly declared Player: "Electric Mouse". 
 /// </summary>
 /// <param name="baseValue">specified in Main</param>
-/// <param name="modifier">will target words Weak, Base & Strong</param>
+/// <param name="modifier">will target words Weak, Base, Strong</param>
 /// <returns></returns>
 delegate float CalculateModifier(float baseValue, Modifier modifier);

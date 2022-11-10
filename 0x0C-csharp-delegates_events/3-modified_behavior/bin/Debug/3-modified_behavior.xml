@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-modified_behavior</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary> Public class Player, representing an object (Player obj).</summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>
+             Constructor prototype method for Player.
+             </summary>
+            <param name="name"> name of player</param>
+            <param name="maxHp">health points of player</param>
+            
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+             Prints the current health of the player.
+             </summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary>
+             Handles health related events
+             </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>
+            Prints name takes damage damage!
+            If damage is negative, the Player takes 0 damage 
+            and prints name takes 0 damage!
+            </summary>
+            <param name="damage"> if it is negative, the Player takes 0 damage </param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>
+            Prints health points recovered
+            </summary>
+            <param name="heal"> If heal is negative, the Player heals 0 
+            HP and prints name heals 0 HP!</param>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>
+            Sets the new value of the Player’s hp
+            </summary>
+            <param name="newHp"> if newHp is negative, set hp to 0. 
+            If newHp is larger than maxHp, set hp to the value of maxHp.
+            Otherwise, set hp to the value of newHp. </param>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary>
+            Follows the delegate prototype of CalculateModifier
+            </summary>
+            <param name="baseValue">specified by Main</param>
+            <param name="modifier">Weak, Base or Strong, each will return the baseValue
+            float variable with certain amplifications</param>
+            <returns></returns>
+        </member>
+        <member name="T:Modifier">
+            <summary>
+            Create an enum Modifier with the values Weak, Base, Strong.
+            </summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary>
+            Delegate Method named CalculateModifier used in Main to declare
+            the ApplyModifier method within the delegate method parameter through
+            newly declared Player: "Electric Mouse". 
+            </summary>
+            <param name="baseValue">specified in Main</param>
+            <param name="modifier">will target words Weak, Base, Strong</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
