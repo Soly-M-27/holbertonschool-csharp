@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-eventful</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary>This class represents a Player object.</summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>Default constructor method.</summary>
+            
+            <param name="name">The name of the player</param>
+            <param name="maxHp">Represents the health points of the player</param>
+            
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>Prints the current health of the player.</summary>
+        </member>
+        <member name="T:Player.CalculateHealth">
+            <summary>Handles health related events</summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>Prints damage taken</summary>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>Prints health points recovered</summary>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary>Sets the new value of HP</summary>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary>Calculate and </summary>
+        </member>
+    </members>
+</doc>

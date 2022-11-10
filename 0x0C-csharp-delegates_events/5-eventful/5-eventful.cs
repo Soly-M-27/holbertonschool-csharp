@@ -1,24 +1,17 @@
 ﻿using System;
 
-///<summary> Public class Player, representing an object (Player obj).</summary>
+///<summary>This class represents a Player object.</summary>
 class Player
 {
     private string name;
     private float maxHp;
     private float hp;
-
-    /// <summary>
-    /// New EventHandler of type CurrentHPArgs called HPCheck
-    /// </summary>
-    public event EventHandler<CurrentHPArgs> HPCheck;
-
     private string status;
 
-    ///<summary>
-    /// Constructor prototype method for Player.
-    /// </summary>
-    ///<param name="name"> name of player</param>
-    ///<param name="maxHp">health points of player</param>
+    ///<summary>Default constructor method.</summary>
+    ///
+    ///<param name="name">The name of the player</param>
+    ///<param name="maxHp">Represents the health points of the player</param>
     ///
     public Player(string name = "Player", float maxHp = 100f)
     {
@@ -32,28 +25,19 @@ class Player
         this.name = name;
         this.hp = this.maxHp;
         this.status = $"{this.name} is ready to go!";
-        HPCheck = CheckStatus;
+        HPCheck += CheckStatus;
     }
 
-    ///<summary>
-    /// Prints the current health of the player.
-    /// </summary>
+    ///<summary>Prints the current health of the player.</summary>
     public void PrintHealth()
     {
         Console.WriteLine($"{name} has {hp} / {maxHp} health");
     }
 
-    ///<summary>
-    /// Handles health related events
-    /// </summary>
+    ///<summary>Handles health related events</summary>
     public delegate void CalculateHealth(float points);
 
-    /// <summary>
-    /// Prints name takes damage damage!
-    /// If damage is negative, the Player takes 0 damage 
-    /// and prints name takes 0 damage!
-    /// </summary>
-    /// <param name="damage"> if it is negative, the Player takes 0 damage </param>
+    ///<summary>Prints damage taken</summary>
     public void TakeDamage(float damage)
     {
         if (damage <= 0)
@@ -64,14 +48,10 @@ class Player
         else
             Console.WriteLine($"{name} takes {damage} damage!");
         hp -= damage;
-        ValidateHP(hp - damage);
+        ValidateHP(hp);
     }
-    
-    /// <summary>
-    /// Prints health points recovered
-    /// </summary>
-    /// <param name="heal"> If heal is negative, the Player heals 0 
-    /// HP and prints name heals 0 HP!</param>
+
+    ///<summary>Prints health points recovered</summary>
     public void HealDamage(float heal)
     {
         if (heal <= 0)
@@ -80,19 +60,12 @@ class Player
             heal = 0;
         }
         else
-        {
             Console.WriteLine($"{name} heals {heal} HP!");
-        }
         hp += heal;
         ValidateHP(hp);
     }
 
-    /// <summary>
-    /// Sets the new value of the Player’s hp
-    /// </summary>
-    /// <param name="newHp"> if newHp is negative, set hp to 0. 
-    /// If newHp is larger than maxHp, set hp to the value of maxHp.
-    /// Otherwise, set hp to the value of newHp. </param>
+    ///<summary>Sets the new value of HP</summary>
     public void ValidateHP(float newHp)
     {
         if (newHp <= 0)
@@ -101,16 +74,10 @@ class Player
             hp = maxHp;
         else
             hp = newHp;
-        HPCheck(this, new CurrentHPArgs(hp));
+        OnCheckStatus(new CurrentHPArgs(hp));
     }
 
-    /// <summary>
-    /// Follows the delegate prototype of CalculateModifier
-    /// </summary>
-    /// <param name="baseValue">specified by Main</param>
-    /// <param name="modifier">Weak, Base or Strong, each will return the baseValue
-    /// float variable with certain amplifications</param>
-    /// <returns></returns>
+    ///<summary>Calculate and </summary>
     public float ApplyModifier(float baseValue, Modifier modifier)
     {
         if (modifier == Modifier.Weak)
@@ -120,14 +87,10 @@ class Player
         else
             return baseValue * 1.5f;
     }
+    
+    public event EventHandler<CurrentHPArgs> HPCheck;
 
-    /// <summary>
-    /// Lets Player know how their health status is in word form,
-    /// varying in the damage taken.
-    /// </summary>
-    /// <param name="sender">Object sent</param>
-    /// <param name="e">EventHandler arguements</param>
-    private void CheckStatus(object? sender, CurrentHPArgs e)
+    private void CheckStatus(object sender, CurrentHPArgs e)
     {
         if (e.currentHp == maxHp)
             status = $"{name} is in perfect health!";
@@ -141,11 +104,44 @@ class Player
             status = $"{name} is knocked out!";
         Console.WriteLine(status);
     }
+
+    private void HPValueWarning(object sender, CurrentHPArgs e)
+    {
+        if (e.currentHp == 0)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Health has reached zero!");
+            Console.ForegroundColor = ConsoleColor.White;
+
+        }
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Health is low!");
+            Console.ForegroundColor = ConsoleColor.White;
+        }
+    }
+
+    private void OnCheckStatus(CurrentHPArgs e)
+    {
+        if (e.currentHp <= (maxHp / 4))
+            HPCheck += HPValueWarning;
+        else
+            HPCheck -= HPValueWarning;
+        HPCheck(this, e);
+    }
 }
 
-/// <summary>
-/// Create an enum Modifier with the values Weak, Base, Strong.
-/// </summary>
+class CurrentHPArgs : EventArgs
+{
+    public float currentHp { get; }
+
+    public CurrentHPArgs(float newHp)
+    {
+        this.currentHp = newHp;
+    }
+}
+
 enum Modifier
 {
     Weak,
@@ -153,39 +149,4 @@ enum Modifier
     Strong
 }
 
-/// <summary>
-/// Delegate Method named CalculateModifier used in Main to declare
-/// the ApplyModifier method within the delegate method parameter through
-/// newly declared Player: "Electric Mouse". 
-/// </summary>
-/// <param name="baseValue">specified in Main</param>
-/// <param name="modifier">will target words Weak, Base, Strong</param>
-/// <returns></returns>
 delegate float CalculateModifier(float baseValue, Modifier modifier);
-
-/// <summary>
-/// New class CurrentHPArgs that inherits from EventArgs.
-/// Properties: 
-/// currentHp: public float that cannot be modified
-/// Constructor:
-/// Takes a float newHp and sets it as currentHp‘s value
-/// </summary>
-class CurrentHPArgs : EventArgs
-{
-    /// <summary>
-    /// Properties: 
-    /// currentHp: public float that cannot be modified
-    /// </summary>
-    /// <value>public float that cannot be modified, null if not provided</value>
-    public float currentHp { get; }
-
-    /// <summary>
-    /// Constructor:
-    /// Takes a float newHp and sets it as currentHp‘s value 
-    /// </summary>
-    /// <param name="newHp">sets it as currentHp‘s value</param>
-    public CurrentHPArgs(float newHp)
-    {
-        this.currentHp = newHp;
-    }
-}
