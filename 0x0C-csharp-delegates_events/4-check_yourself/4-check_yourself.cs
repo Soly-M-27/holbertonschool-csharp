@@ -127,7 +127,7 @@ class Player
     /// </summary>
     /// <param name="sender">Object sent</param>
     /// <param name="e">EventHandler arguements</param>
-    private void CheckStatus(object? sender, CurrentHPArgs e)
+    private void CheckStatus(object? sender, BindingManagerDataErrorEventArgsCurrentHPArgs e)
     {
         if (e.currentHp == maxHp)
             status = $"{name} is in perfect health!";
