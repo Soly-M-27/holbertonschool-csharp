@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/bin/Debug/net6.0/3-decorations.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/refint/3-decorations.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/3-decorations.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/3-decorations/obj/Debug/net6.0/ref/3-decorations.dll

@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/bin/Debug/net6.0/2-doors
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/bin/Debug/net6.0/2-doors.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/bin/Debug/net6.0/2-doors.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/bin/Debug/net6.0/2-doors.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/bin/Debug/net6.0/2-doors.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/2-doors.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/2-doors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/2-doors.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/2-doors.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/2-doors.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/2-doors.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/refint/2-doors.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/2-doors.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/2-doors.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/2-doors/obj/Debug/net6.0/ref/2-doors.dll

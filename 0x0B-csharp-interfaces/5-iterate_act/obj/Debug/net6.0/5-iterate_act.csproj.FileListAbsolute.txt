@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/net6.0/5-iterate_act
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/net6.0/5-iterate_act.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/net6.0/5-iterate_act.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/net6.0/5-iterate_act.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/net6.0/5-iterate_act.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/5-iterate_act.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/5-iterate_act.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/5-iterate_act.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/5-iterate_act.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/5-iterate_act.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/5-iterate_act.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/refint/5-iterate_act.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/5-iterate_act.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/5-iterate_act.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/net6.0/ref/5-iterate_act.dll
