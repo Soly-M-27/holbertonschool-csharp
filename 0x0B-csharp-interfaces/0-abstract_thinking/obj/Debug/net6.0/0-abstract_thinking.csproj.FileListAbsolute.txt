@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/bin/Debug/net6.0/0-abstract_thinking
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/bin/Debug/net6.0/0-abstract_thinking.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/bin/Debug/net6.0/0-abstract_thinking.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/bin/Debug/net6.0/0-abstract_thinking.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/bin/Debug/net6.0/0-abstract_thinking.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/0-abstract_thinking.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/0-abstract_thinking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/0-abstract_thinking.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/0-abstract_thinking.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/0-abstract_thinking.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/0-abstract_thinking.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/refint/0-abstract_thinking.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/0-abstract_thinking.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/0-abstract_thinking.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0B-csharp-interfaces/0-abstract_thinking/obj/Debug/net6.0/ref/0-abstract_thinking.dll
