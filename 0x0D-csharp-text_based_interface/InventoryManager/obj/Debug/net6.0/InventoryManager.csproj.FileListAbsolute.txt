@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/bin/Debug/net6.0/InventoryManager
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/bin/Debug/net6.0/InventoryManager.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/bin/Debug/net6.0/InventoryManager.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/bin/Debug/net6.0/InventoryManager.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/bin/Debug/net6.0/InventoryManager.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/InventoryManager.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/InventoryManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/InventoryManager.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/InventoryManager.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/InventoryManager.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/InventoryManager.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/refint/InventoryManager.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/InventoryManager.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/InventoryManager.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManager/obj/Debug/net6.0/ref/InventoryManager.dll

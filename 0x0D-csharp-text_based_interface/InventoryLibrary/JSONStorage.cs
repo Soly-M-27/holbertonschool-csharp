@@ -45,11 +45,11 @@ namespace InventoryLibrary
         /// </summary>
         /// <param name="obj">objects from dict</param>
         /// <typeparam name="T">generic T declated in order for any paramete type to pass</typeparam>
-        public void Load<T>(T obj)
+        public void Load()
         {
             string fileName = "../storage/inventory_manager.json";
             string jsonString = File.ReadAllText(fileName);
-            objects = JsonSerializer.Deserialize<Dictionary<($"{obj.GetType().name}"), ($"{obj.id}")>(jsonString);
+            objects = JsonSerializer.Deserialize<Dictionary<($"{objects.key.GetType().name}"), ($"{objects.id}")>(jsonString);
         }
     }
 }
