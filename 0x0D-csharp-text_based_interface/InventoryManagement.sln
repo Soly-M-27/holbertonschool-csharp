@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryLibrary", "InventoryLibrary\InventoryLibrary.csproj", "{AA33D54A-4C4D-4A9F-A0BB-2997461C08AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryLibrary", "InventoryLibrary\InventoryLibrary.csproj", "{C45AAFFF-9F5C-476F-8664-A06D002649C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManager", "InventoryManager\InventoryManager.csproj", "{8348B555-22E6-46E8-B5F2-2C47562B8E2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManager", "InventoryManager\InventoryManager.csproj", "{FC48B368-B5AF-4A24-8542-F873715D955F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AA33D54A-4C4D-4A9F-A0BB-2997461C08AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA33D54A-4C4D-4A9F-A0BB-2997461C08AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA33D54A-4C4D-4A9F-A0BB-2997461C08AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AA33D54A-4C4D-4A9F-A0BB-2997461C08AC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8348B555-22E6-46E8-B5F2-2C47562B8E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8348B555-22E6-46E8-B5F2-2C47562B8E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8348B555-22E6-46E8-B5F2-2C47562B8E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8348B555-22E6-46E8-B5F2-2C47562B8E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45AAFFF-9F5C-476F-8664-A06D002649C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45AAFFF-9F5C-476F-8664-A06D002649C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45AAFFF-9F5C-476F-8664-A06D002649C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45AAFFF-9F5C-476F-8664-A06D002649C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC48B368-B5AF-4A24-8542-F873715D955F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC48B368-B5AF-4A24-8542-F873715D955F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC48B368-B5AF-4A24-8542-F873715D955F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC48B368-B5AF-4A24-8542-F873715D955F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -8,7 +8,7 @@ namespace InventoryLibrary
     /// </summary>
     public class JSONStorage
     {
-        private Dictionary<TClassName, Tid> objects = new Dictionary<TClassName, Tid>();
+        public Dictionary<TClassName, Tid> objects = new Dictionary<TClassName, Tid>();
 
         /// <summary>
         /// Returns all objects from dictionary
@@ -43,8 +43,6 @@ namespace InventoryLibrary
         /// <summary>
         /// Load method to deserialize objects from JSONStorage file
         /// </summary>
-        /// <param name="obj">objects from dict</param>
-        /// <typeparam name="T">generic T declated in order for any paramete type to pass</typeparam>
         public void Load()
         {
             string fileName = "../storage/inventory_manager.json";
