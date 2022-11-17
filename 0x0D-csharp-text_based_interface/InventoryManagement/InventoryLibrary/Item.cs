@@ -4,7 +4,7 @@ using InventoryLibrary;
 namespace InventoryLibrary
 {
     /// <summary>
-    /// Item Class
+    /// Item Class inheriting from BaseClass
     /// </summary>
     public class Item : BaseClass
     {
