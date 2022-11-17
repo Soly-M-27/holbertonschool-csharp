@@ -1,22 +1,21 @@
 ﻿using System;
-using InventoryLibrary;
 
-namespace InventoryManager
+namespace InventoryManagement
 {
     class Application
     {
-        public Dictionary<string, InventoryLibrary> myDict = new Dictionary<string, InventoryLibrary>
+        public Dictionary<string, object> myDict = new Dictionary<string, object>
         {
             {"BaseClass", BaseClass},
             {"Inventory", Inventory},
             {"User", User},
             {"Item", Item}
         };
-        public void Main(string[] args){
+        public static void Main(string[] args){
 
             string user_input;
 
-            InventoryLibrary.JSONStorage.Load();
+            JSONStorage.Load();
 
             Console.WriteLine("Inventory Manager" +
                             "-------------------------" +
@@ -28,7 +27,6 @@ namespace InventoryManager
                             "<Update [ClassName object_id]> an object" +
                             "<Delete [ClassName object_id]> an object" +
                             "<Exit>");
-            storage.Load();
 
             user_input = Console.ReadLine();
 
@@ -47,7 +45,7 @@ namespace InventoryManager
             {
                 Console.WriteLine("** class name missing **");
             }
-            else if (arg)
+            else
             {
                 foreach (var _class in myDict)
                 {
