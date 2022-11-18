@@ -1,0 +1,15 @@
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/bin/Debug/net6.0/InventoryManagement.Tests
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/bin/Debug/net6.0/InventoryManagement.Tests.deps.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/bin/Debug/net6.0/InventoryManagement.Tests.runtimeconfig.json
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/bin/Debug/net6.0/InventoryManagement.Tests.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/bin/Debug/net6.0/InventoryManagement.Tests.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/InventoryManagement.Tests.csproj.AssemblyReference.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/InventoryManagement.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/InventoryManagement.Tests.AssemblyInfoInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/InventoryManagement.Tests.AssemblyInfo.cs
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/InventoryManagement.Tests.csproj.CoreCompileInputs.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/InventoryManagement.Tests.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/refint/InventoryManagement.Tests.dll
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/InventoryManagement.Tests.pdb
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/InventoryManagement.Tests.genruntimeconfig.cache
+/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement.Tests/obj/Debug/net6.0/ref/InventoryManagement.Tests.dll
