@@ -22,7 +22,7 @@ public class Queue<T>
     /// </summary>
     public class Node
     {
-        private T value = default(T);
+        public T value = default(T);
 
         /// <summary>
         /// Getter for the next variable of type Node, initially declared null
