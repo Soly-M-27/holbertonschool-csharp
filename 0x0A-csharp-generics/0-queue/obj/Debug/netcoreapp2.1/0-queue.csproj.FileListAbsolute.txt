@@ -1,0 +1,5 @@
+/mnt/c/Users/skull/Desktop/RL Desktop/Work/Holberton/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.csproj.AssemblyReference.cache
+/mnt/c/Users/skull/Desktop/RL Desktop/Work/Holberton/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/skull/Desktop/RL Desktop/Work/Holberton/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.AssemblyInfoInputs.cache
+/mnt/c/Users/skull/Desktop/RL Desktop/Work/Holberton/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.AssemblyInfo.cs
+/mnt/c/Users/skull/Desktop/RL Desktop/Work/Holberton/holbertonschool-csharp/0x0A-csharp-generics/0-queue/obj/Debug/netcoreapp2.1/0-queue.csproj.CoreCompileInputs.cache
