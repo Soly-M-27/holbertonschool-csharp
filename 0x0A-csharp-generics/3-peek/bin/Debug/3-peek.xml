@@ -24,6 +24,11 @@
             only parameter and sets it. 
             </summary>
         </member>
+        <member name="F:Queue`1.Node.value">
+            <summary>
+            Type that represents the value of the node
+            </summary>
+        </member>
         <member name="F:Queue`1.Node.next">
             <summary>
             Getter for the next variable of type Node, initially declared null

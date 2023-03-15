@@ -22,6 +22,9 @@ public class Queue<T>
     /// </summary>
     public class Node
     {
+        /// <summary>
+        /// Type that represents the value of the node
+        /// </summary>
         public T value = default(T);
 
         /// <summary>
