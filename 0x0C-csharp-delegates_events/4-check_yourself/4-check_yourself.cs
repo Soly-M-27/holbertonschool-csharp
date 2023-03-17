@@ -64,7 +64,7 @@ class Player
         else
             Console.WriteLine($"{name} takes {damage} damage!");
         hp -= damage;
-        ValidateHP(hp - damage);
+        ValidateHP(hp);
     }
     
     /// <summary>

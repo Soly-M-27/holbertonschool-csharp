@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/solymarsanchez/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/4-check_yourself.csproj",
+      "projectUniqueName": "/mnt/c/Users/skull/Desktop/RL Desktop/Work/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/4-check_yourself.csproj",
       "projectName": "4-check_yourself",
-      "projectPath": "/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/4-check_yourself.csproj",
-      "packagesPath": "/Users/solymarsanchez/.nuget/packages/",
-      "outputPath": "/Users/solymarsanchez/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/",
+      "projectPath": "/mnt/c/Users/skull/Desktop/RL Desktop/Work/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/4-check_yourself.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/skull/Desktop/RL Desktop/Work/Holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/solymarsanchez/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.113/RuntimeIdentifierGraph.json"
       }
     }
   }
