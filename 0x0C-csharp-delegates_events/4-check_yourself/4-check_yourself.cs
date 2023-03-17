@@ -130,10 +130,7 @@ class Player
     private void CheckStatus(object sender, CurrentHPArgs e)
     {
         if (e.currentHp == maxHp)
-        {
-            PrintHealth();
             status = $"{name} is in perfect health!";
-        }
         else if (e.currentHp >= (maxHp / 2) && e.currentHp < maxHp)
             status = $"{name} is doing well!";
         else if (e.currentHp >= (maxHp / 4) && e.currentHp < (maxHp / 2))
